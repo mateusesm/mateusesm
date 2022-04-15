@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mateusesm">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=mateusesm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=mateusesm&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusesm&layout=compact&langs_count=7&theme=dark">
 </div>
   
