@@ -1,8 +1,8 @@
 <div style="display: flex">  
   <div>
     <a href="https://github.com/mateusesm">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=mateusesm&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusesm&layout=compact&langs_count=7&theme=dark">
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=mateusesm&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusesm&layout=compact&langs_count=7&theme=dark">
   </div>
 </div>
   
