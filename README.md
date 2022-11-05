@@ -1,6 +1,6 @@
-💻 Desenvolvedor Web (Amante, entusiasta e freelancer)
+💻 Desenvolvedor Web (amante, entusiasta, freelancer)
 </br>
-🎓 Tec. Informática - IFRN (Laureado) 🥇
+🎓 Técnico em Informática - IFRN 🥇
 </br>
 💼 LinkedIn & Instagram ⬇️
 
