@@ -2,7 +2,7 @@
 </br>
 🎓 Tec. Informática - IFRN (Laureado) 🥇
 </br>
-💼 Contato ↙️
+💼 LinkedIn & Instagram ⬇️
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/mateusesm" target="_blank">
