@@ -1,5 +1,3 @@
-💻 Desenvolvedor Web
-</br>
 ### Contato
 
 <p align="left" style="background:yellow">
