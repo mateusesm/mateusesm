@@ -1,8 +1,6 @@
-💻 Desenvolvedor Web (amante, entusiasta, freelancer)
+💻 Desenvolvedor Web
 </br>
-🎓 Técnico em Informática - IFRN 🥇
-</br>
-💼 LinkedIn & Instagram ⬇️
+### Contato
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/mateusesm" target="_blank">
