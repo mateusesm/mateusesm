@@ -19,9 +19,11 @@
   <p>I also wanna study mobile development with React Native in the future.</p>
 
   <p>I'm graduated with honors in Computer Technician at Federal Institute of Rio Grande do Norte from Brazil and I love development and programming and always I'm studying new things on my own.</p>
+ 
+  <p>Jesus Christ lives</p>
 </div>
 
-<div  class="section-two">
+<div class="section-two">
   <h3>Talk to me:</h3>
 
   <span align="left" style="background:yellow">
