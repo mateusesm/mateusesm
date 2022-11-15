@@ -1,3 +1,16 @@
+## Hello, call me Mateus!
+
+I'm a Web Developer and live in Brasil 🇧🇷
+
+My experiences and my studys includes:
+
+- [ HTML, CSS/SASS, JavaScript (VanilhaJS) ]
+- [ NodeJS, TypeScript, Express ]
+- [ ReactJS, NextJS ]
+- [ Tests with Jest ]
+- [ Linux, Docker ]
+- [ Git, GitHub ]
+
 ### Contato
 
 <p align="left" style="background:yellow">
