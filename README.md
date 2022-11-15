@@ -20,7 +20,7 @@
 
   <p>I'm graduated with honors in Computer Technician at Federal Institute of Rio Grande do Norte from Brazil and I love development and programming and always I'm studying new things on my own.</p>
  
-  <p>Jesus Christ lives.</p>
+  <p>John 3:16</p>
 </div>
 
 <div class="section-two">
