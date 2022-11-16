@@ -28,11 +28,11 @@
 
   <span align="left" style="background:yellow">
   <a href="https://linkedin.com/in/mateusesm" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Mateus Macedo-000000?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-Mateus Macedo-121214?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
 
   <a href="mailto:mateusemanuel198@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-mateusemanuel198@gmail.com-000000?style=flat&logo=gmail" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-mateusemanuel198@gmail.com-121214?style=flat&logo=gmail" alt="linkedin"/>
   </a>
   </span> 
 </div>
