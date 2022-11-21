@@ -7,13 +7,13 @@
 
   <ul>
     <li>HTML, CSS/SASS, JavaScript (VanillaJS), ReactJS</li>
-    <li>NodeJS, TypeScript, NextJS, Express</li>
-    <li>MySQL, PostgreSQL, MongoDB</li>
+    <li>NodeJS, TypeScript, NextJS</li>
     <li>Object-Oriented Programming</li>
     <li>Functional Programming</li>
     <li>Tests with Jest</li>
-    <li>Linux, Docker</li>
     <li>Git, GitHub</li>
+    <li>Linux</li>
+    <li>SQL</li>
   </ul>
 
   <p>I also wanna study mobile development with React Native in the future.</p>
