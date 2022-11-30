@@ -6,8 +6,7 @@
   <p>My experiences and my studys includes (but them aren't limited just at this):</p>
 
   <ul>
-    <li>HTML, CSS/SASS, JavaScript (VanillaJS), ReactJS</li>
-    <li>NodeJS, TypeScript, NextJS</li>
+    <li>HTML, CSS/SASS, JavaScript (VanillaJS), NodeJS, TypeScript, ReactJS</li>
     <li>Object-Oriented Programming</li>
     <li>Functional Programming</li>
     <li>Tests with Jest</li>
