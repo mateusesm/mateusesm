@@ -1,15 +1,15 @@
 <div class="section-one"> 
  <h3>Hello, call me Mateus!</h3>
 
-  <p>I'm a Brazilian Web Developer 🇧🇷</p>
+  <p>I'm a Brazilian Web Developer.</p>
 
   <p>My experiences and my studys includes (but them aren't limited just at this):</p>
 
   <ul>
     <li>HTML, CSS/SASS, JavaScript (VanillaJS), NodeJS, TypeScript, ReactJS, Express</li>
     <li>Object-Oriented Programming, Functional Programming</li>
+    <li>SQL and NoSQL databases</li>
     <li>Tests with Jest</li>
-    <li>SQL, NoSQL</li>
     <li>Git, GitHub</li>
     <li>Linux</li>
   </ul>
