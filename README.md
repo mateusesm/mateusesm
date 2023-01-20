@@ -6,13 +6,12 @@
   <p>My experiences and my studys includes (but them aren't limited just at this):</p>
 
   <ul>
-    <li>HTML, CSS/SASS, JavaScript (VanillaJS), NodeJS, TypeScript, ReactJS</li>
-    <li>Object-Oriented Programming</li>
-    <li>Functional Programming</li>
+    <li>HTML, CSS/SASS, JavaScript (VanillaJS), NodeJS, TypeScript, ReactJS, Express</li>
+    <li>Object-Oriented Programming, Functional Programming</li>
     <li>Tests with Jest</li>
     <li>Git, GitHub</li>
+    <li>SQL/NoSQL</li>
     <li>Linux</li>
-    <li>SQL</li>
   </ul>
 
   <p>I also wanna study mobile development with React Native in the future.</p>
