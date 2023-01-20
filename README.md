@@ -31,8 +31,8 @@
     <img align="center" src="https://img.shields.io/badge/-Mateus Macedo-121214?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
 
-  <a href="mailto:mateusesm1@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-mateusesm1@gmail.com-121214?style=flat&logo=gmail" alt="linkedin"/>
+  <a href="mailto:mateusemanuel198@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-mateusemanuel198@gmail.com-121214?style=flat&logo=gmail" alt="linkedin"/>
   </a>
   </span> 
 </div>
