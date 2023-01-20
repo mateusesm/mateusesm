@@ -10,7 +10,7 @@
     <li>Object-Oriented Programming, Functional Programming</li>
     <li>Tests with Jest</li>
     <li>Git, GitHub</li>
-    <li>SQL/NoSQL</li>
+    <li>SQL, NoSQL</li>
     <li>Linux</li>
   </ul>
 
