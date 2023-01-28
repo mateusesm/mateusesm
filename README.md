@@ -10,8 +10,8 @@
     <div>- Object-Oriented Programming, Functional Programming;</div>
     <div>- SQL and NoSQL databases;</div>
     <div>- Tests with Jest;</div>
-    <div>- Git, GitHub;</div>
-    <div>- Linux.</div>
+    <div>- Linux, Docker;</div>
+    <div>- Git, GitHub.</div>
   </div>
  
   <br/>
