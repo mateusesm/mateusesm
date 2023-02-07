@@ -1,7 +1,5 @@
 <div class="section-one"> 
- <h3>Hello, call me Mateus!</h3>
-
-  <p>I'm a Brazilian Web Developer.</p>
+ <p>Hello, call me Mateus! I'm a Brazilian Web Developer.</p>
 
   <p>My experiences and my studys includes (but them aren't limited just at this):</p>
 
