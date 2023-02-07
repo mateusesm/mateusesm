@@ -22,7 +22,7 @@
 </div>
 
 <div class="section-two">
- <h3>Talk to me:</h3>
+ <p>Talk to me:</p>
 
  <span align="left" style="background:yellow">
  <a href="https://linkedin.com/in/mateusesm" target="_blank">
